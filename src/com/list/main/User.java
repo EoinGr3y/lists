@@ -1,4 +1,4 @@
-package com.list.main;
+package src.com.list.main;
 
 public class User {
 	
